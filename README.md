@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natsayacay1&show_icons=true&theme=calm" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natsayacay1&layout=compact&theme=calm" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Natasyacay1&show_icons=true&theme=calm" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natasyacay1&layout=compact&theme=calm" height="160px"/>
 </p>
 
 ---
