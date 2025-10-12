@@ -11,7 +11,7 @@
 - 💻 Passionate about **Web Development** and **UI/UX Design**
 - 🌍 Aspiring to work and create impactful digital experiences on an **international scale**
 - 🎬 Member of **Liga Film Mahasiswa** & **Mathematics Student Association**
-- 💡 Also active in **GDGOC (Google Developer Group on Campus)** and the **Student Association**
+- 💡 Member of  **GDGOC (Google Developer Group on Campus)** and the **Student Association**
 - ✨ Motto: *“Be brave to start, finish, and let go.”*
 
 ---
