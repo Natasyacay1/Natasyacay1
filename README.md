@@ -1,5 +1,5 @@
 <!-- Nature Calm Profile README for Natsayacay1 -->
-<h1 align="center">🌿 Hi, I'm Naca 🌿</h1>
+<h1 align="center">🌿 Hi, I'm Natasya 🌿</h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/a9/36/3a/a9363a1741a12dc1a826b1ce2e24a908.gif" width="250px" alt="Calm Nature Gif">
 </p>
@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 Favorite Programming Languages
+### 💻 Programming Languages I’ve Learned
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,php" />
 </p>
@@ -48,15 +48,15 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.instagram.com/@naca_ig" target="_blank"><img src="https://img.shields.io/badge/Instagram-CEE5D0?style=for-the-badge&logo=instagram&logoColor=4E944F"/></a>
-  <a href="https://x.com/@naca_twt" target="_blank"><img src="https://img.shields.io/badge/Twitter-FAEDCD?style=for-the-badge&logo=x&logoColor=4E944F"/></a>
-  <a href="https://www.threads.net/@naca_threads" target="_blank"><img src="https://img.shields.io/badge/Threads-DDE5B6?style=for-the-badge&logo=threads&logoColor=4E944F"/></a>
-  <a href="https://www.linkedin.com/in/@naca_linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F0EBCE?style=for-the-badge&logo=linkedin&logoColor=4E944F"/></a>
-  <a href="https://wa.me/@naca_wa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-E9EDC9?style=for-the-badge&logo=whatsapp&logoColor=4E944F"/></a>
-  <a href="mailto:naca@email.com"><img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/@n_nnachaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-CEE5D0?style=for-the-badge&logo=instagram&logoColor=4E944F"/></a>
+  <a href="https://x.com/@milk.clio" target="_blank"><img src="https://img.shields.io/badge/Twitter-FAEDCD?style=for-the-badge&logo=x&logoColor=4E944F"/></a>
+  <a href="https://www.threads.net/@asdfghijkkkk" target="_blank"><img src="https://img.shields.io/badge/Threads-DDE5B6?style=for-the-badge&logo=threads&logoColor=4E944F"/></a>
+  <a href="https://www.linkedin.com/in/@Natasya R" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F0EBCE?style=for-the-badge&logo=linkedin&logoColor=4E944F"/></a>
+  <a href="https://wa.me/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-E9EDC9?style=for-the-badge&logo=whatsapp&logoColor=4E944F"/></a>
+  <a href="mailto:natasya@natasyacaca916@gmail.com"><img src="https://img.shields.io/badge/Email-D4A373?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">🍃 <i>“Growing through every line of code.”</i> 🍃</p>
-<p align="center">Made with calm energy by <b>Naca</b> 🤍</p>
+<p align="center">Extrovert - ENFP by <b>Natasya</b> 🤍</p>
