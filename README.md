@@ -33,7 +33,7 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,java,python,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,git,github,figma,canva,vscode" />
 </p>
 
 ---
@@ -59,4 +59,3 @@
 ---
 
 <p align="center">🍃 <i>“Growing through every line of code.”</i> 🍃</p>
-<p align="center">Extrovert - ENFP by <b>Natasya</b> 🤍</p>
