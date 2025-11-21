@@ -1,4 +1,4 @@
-🌿 Hi, I’m Natasya!
+### 🌿 Hi, I’m Natasya!
 <p align="center"> <img src="https://i.pinimg.com/originals/a9/36/3a/a9363a1741a12dc1a826b1ce2e24a908.gif" width="230px"> </p> <p align="center"><i>“Coding my way through growth, creativity, and calm energy.”</i></p>
 
 ### 🌱 About Me
@@ -28,7 +28,7 @@
 
 ### ⚙️ Tech Stack I Use
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,laravel,figma,git,github,vscode,photoshop,premiere" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,laravel,figma,git,github,vscode,photoshop,premiere" /> </p>
 
 ---
 
