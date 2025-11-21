@@ -33,7 +33,7 @@
 
 ### ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,git,github,figma,canva,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,python,git,github,figma,snapseed,capcut,adobe premier,vscode" />
 </p>
 
 ---
