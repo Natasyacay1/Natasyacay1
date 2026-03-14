@@ -13,7 +13,7 @@
 
 ### 💻 Programming Languages I’ve Learned
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,php" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,php,html" />
 </p>
 
 ---
@@ -52,4 +52,4 @@
 
 ---
 
-<p align="center">🍃 <i>“Growing through every line of code.”</i> 🍃</p>
+<p align="center">🍃 <i>“Growing through every line of code”</i> 🍃</p>
