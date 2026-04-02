@@ -10,7 +10,7 @@
 <h1 align="center">🌿 Hi, I'm Natasya!</h1>
 
 <p align="center">
-  <img src="profile.png" width="200"/>
+  <img src="profile.jpeg" width="200"/>
 </p>
 
 <p align="center">
